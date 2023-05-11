@@ -1,0 +1,62 @@
+.main{
+  background-image: url(https://png.pngtree.com/background/20230409/original/pngtree-sky-color-clouds-sea-of-%E2%80%8B%E2%80%8Bclouds-picture-image_2374557.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100%
+}
+nav{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+}
+.form-control{
+ padding: .7rem 1.5rem;
+ font-size: 1.2rem;
+ border-radius: 25px;
+ border: 1px solid rgba(225, 225, 225, 0.8);
+ background: rgba(225, 225, 225, 0.1);
+ color: aliceblue;
+}
+::placeholder{
+  color: aliceblue;
+}
+.middle{
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    background: rgba(0,0,0,0.2);
+    margin: auto;
+    width: 900px;
+    border-radius: 15px;   
+}
+.inside{
+  padding: 0px 60px;
+}
+footer{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  text-align: center;
+  margin-top: -100px;
+  padding-bottom: 46px;
+ padding-left: 190px;
+ padding-right: 190px;
+}
+.footer{
+  background: rgba(0,0,0,0.3);
+  border-radius: 15px;
+  width: 200px;
+  height: 160px;
+}
+p{
+  color: white;
+  margin-bottom: -21px;
+}
+.name{
+  font-size: 40px;
+  margin: -5px;
+}
+.mar{
+  margin: -5px;
+}
